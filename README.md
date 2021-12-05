@@ -10,7 +10,7 @@
 
 > Loves Programming ❤️.
 
-> Contributor of [@thingsup/greenlock-store-sequelize](https://github.com/thingsup/greenlock-sql-manager) 🛂.
+> Contributor of [@thingsup/greenlock-store-sequelize](https://github.com/thingsup/greenlock-sql-manager) and [mqtt-client-cli](https://github.com/Anasnew99/mqtt-cli) 🛂.
 
 > Want to [contact me](mailto:anasnew99@gmail.com)? 📧
 
