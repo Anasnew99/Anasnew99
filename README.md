@@ -10,7 +10,7 @@
 
 > Loves Programming ❤️.
 
-> Contributor of [@thingsup/greenlock-store-sequelize](https://github.com/thingsup/greenlock-sql-manager) and [mqtt-client-cli](https://github.com/Anasnew99/mqtt-cli) 🛂.
+> Contributor of [@thingsup/greenlock-store-sequelize](https://github.com/thingsup/greenlock-sql-manager) , [mqtt-client-cli](https://github.com/Anasnew99/mqtt-cli) and [Indian State Fuel Prices API](https://github.com/Anasnew99/FuelPricesAPI) 🛂.
 
 > Want to [contact me](mailto:anasnew99@gmail.com)? 📧
 
